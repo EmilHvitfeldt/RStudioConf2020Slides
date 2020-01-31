@@ -693,8 +693,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Learning By Teaching: Mentoring At The R4DS Online Learning Community  
 :speaker::    Jon Harmon [JonTheGeek](https://twitter.com/JonTheGeek)  
-:link::  
-:scroll::     
+:link::       
+:scroll::     [bit.ly/r4dsrstudio2020](https://bit.ly/r4dsrstudio2020)
 :movie_camera::      
 
 
