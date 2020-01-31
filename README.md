@@ -46,9 +46,9 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 ### 9:00 Keynote
 
 :star2::      Open Source Software For Data Science  
-:speaker::    JJ Allaire  
-:link::  
-:scroll::     
+:speaker::    JJ Allaire [@fly_upside_down](https://twitter.com/fly_upside_down) 
+:link::       
+:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc]
 :movie_camera::      
 
 ### 10:00 Keynote
@@ -116,7 +116,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Of Teacups, Giraffes, & R Markdown  
 :speaker::    Desiree De Leon [dcossyle](https://twitter.com/dcossyle)  
 :link::  
-:scroll::     
+:scroll::     [web](https://tinystats.github.io/teacups-giraffes-and-statistics)
 :movie_camera::      
 
 ### 11:30 Session 1, Track 3: Production
@@ -312,7 +312,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      R + Tidyverse In Sports  
 :speaker::    Namita Nandakumar  
 :link::  
-:scroll::     
+:scroll::     [google slides](https://docs.google.com/presentation/d/1EqFki81LJk7FEf6KGfILqVIwMNXDfty68jsfu3dKBns/edit#slide=id.g35f391192_00)
 :movie_camera::      
 
 
@@ -440,7 +440,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      How Rmarkdown Changed My Life  
 :speaker::    Rob Hyndman [robjhyndman](https://twitter.com/robjhyndman)  
 :link::  
-:scroll::     
+:scroll::     [pdf](https://github.com/robjhyndman/Rmarkdown2020/raw/master/Rmarkdown.pdf)
 :movie_camera::      
 
 
@@ -527,7 +527,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      RStudio 1.3 Sneak Preview  
 :speaker::    Jonathan McPherson  
 :link::  
-:scroll::     
+:scroll::     [speakerdeck](https://speakerdeck.com/jmcphers/rstudio-1-dot-3-sneak-preview)
 :movie_camera::      
 
 
