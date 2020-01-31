@@ -48,7 +48,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Open Source Software For Data Science  
 :speaker::    JJ Allaire [@fly_upside_down](https://twitter.com/fly_upside_down) 
 :link::       
-:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc]
+:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc]  
 :movie_camera::      
 
 ### 10:00 Keynote
@@ -85,7 +85,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 
 :star2::      How To Win An AI Hackathon, Without Using AI  
-:speaker::    Colin Gillespie [csgillespie](https://twitter.com/csgillespie).
+:speaker::    Colin Gillespie [csgillespie](https://twitter.com/csgillespie).  
 :link::  
 :scroll::     
 :movie_camera::      
@@ -115,8 +115,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Of Teacups, Giraffes, & R Markdown  
 :speaker::    Desiree De Leon [dcossyle](https://twitter.com/dcossyle)  
-:link::  
-:scroll::     [web](https://tinystats.github.io/teacups-giraffes-and-statistics)
+:link::       [web](https://tinystats.github.io/teacups-giraffes-and-statistics)  
+:scroll::     
 :movie_camera::      
 
 ### 11:30 Session 1, Track 3: Production
@@ -153,7 +153,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Simplified Data Quality Monitoring Of Dynamic Longitudinal Data: A Functional Programming Approach  
 :speaker::    Jacqueline Gutman [dynamicdataduo](https://twitter.com/dynamicdataduo)  
 :link::       
-:scroll::     [pdf](https://github.com/jgutman/rstudio-conf-20)
+:scroll::     [pdf](https://github.com/jgutman/rstudio-conf-20)  
 :movie_camera::      
 
 
@@ -289,8 +289,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Reproducible Shiny Apps With Shinymeta  
 :speaker::    Carson Sievert [cpsievert](https://twitter.com/cpsievert)  
-:link::       [keynote](https://talks.cpsievert.me/20200129/shinymeta.key)
-:scroll::     [pdf](https://talks.cpsievert.me/20200129/shinymeta.pdf)
+:link::       [keynote](https://talks.cpsievert.me/20200129/shinymeta.key)  
+:scroll::     [pdf](https://talks.cpsievert.me/20200129/shinymeta.pdf)  
 :movie_camera::      
 
 ### 16:00 Session 3, Track 1: Case Study
@@ -312,7 +312,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      R + Tidyverse In Sports  
 :speaker::    Namita Nandakumar  
 :link::  
-:scroll::     [google slides](https://docs.google.com/presentation/d/1EqFki81LJk7FEf6KGfILqVIwMNXDfty68jsfu3dKBns/edit#slide=id.g35f391192_00)
+:scroll::     [google slides](https://docs.google.com/presentation/d/1EqFki81LJk7FEf6KGfILqVIwMNXDfty68jsfu3dKBns/edit#slide=id.g35f391192_00)  
 :movie_camera::      
 
 
@@ -425,8 +425,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Branding And Packaging Reports With R Markdown  
 :speaker::    Jake Thompson  
-:link::       [wjakethompson](bit.ly/ratlas-rstudioconf)
-:scroll::     [pdf](https://www.wjakethompson.com/slides/2020-Thompson-rstudioconf-Branding-Rmd.pdf)
+:link::       [wjakethompson](bit.ly/ratlas-rstudioconf)  
+:scroll::     [pdf](https://www.wjakethompson.com/slides/2020-Thompson-rstudioconf-Branding-Rmd.pdf)  
 :movie_camera::      
 
 
@@ -440,7 +440,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      How Rmarkdown Changed My Life  
 :speaker::    Rob Hyndman [robjhyndman](https://twitter.com/robjhyndman)  
 :link::  
-:scroll::     [pdf](https://github.com/robjhyndman/Rmarkdown2020/raw/master/Rmarkdown.pdf)
+:scroll::     [pdf](https://github.com/robjhyndman/Rmarkdown2020/raw/master/Rmarkdown.pdf)  
 :movie_camera::      
 
 
@@ -511,7 +511,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 ### 10:30 Session 1, Track 4: Workflow
 
 :star2::      RMarkdown Driven Development  
-:speaker::    Emily Riederer [EmilyRiederer](https://twitter.com/EmilyRiederer)
+:speaker::    Emily Riederer [EmilyRiederer](https://twitter.com/EmilyRiederer)  
 :link::  
 :scroll::     [slideshare](https://www.slideshare.net/EmilyRiederer/rmarkdown-driven-development-rstudioconf-2020)  
 :movie_camera::      
@@ -527,7 +527,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      RStudio 1.3 Sneak Preview  
 :speaker::    Jonathan McPherson  
 :link::  
-:scroll::     [speakerdeck](https://speakerdeck.com/jmcphers/rstudio-1-dot-3-sneak-preview)
+:scroll::     [speakerdeck](https://speakerdeck.com/jmcphers/rstudio-1-dot-3-sneak-preview)  
 :movie_camera::      
 
 
@@ -643,7 +643,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      List-Columns In Data.Table: Reducing The Cognitive And Computational Burden When Working With Comple  
 :speaker::    Tyson Barrett [healthandstats](https://twitter.com/healthandstats)  
 :link::       
-:scroll::     [pdf](https://tysonbarrett.com/assets/rstudio_conf_2020/Barrett_rstudioconf_2020.pdf)
+:scroll::     [pdf](https://tysonbarrett.com/assets/rstudio_conf_2020/Barrett_rstudioconf_2020.pdf)  
 :movie_camera::      
 
 
@@ -694,7 +694,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Learning By Teaching: Mentoring At The R4DS Online Learning Community  
 :speaker::    Jon Harmon [JonTheGeek](https://twitter.com/JonTheGeek)  
 :link::       
-:scroll::     [bit.ly/r4dsrstudio2020](https://bit.ly/r4dsrstudio2020)
+:scroll::     [bit.ly/r4dsrstudio2020](https://bit.ly/r4dsrstudio2020)  
 :movie_camera::      
 
 
