@@ -152,8 +152,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Simplified Data Quality Monitoring Of Dynamic Longitudinal Data: A Functional Programming Approach  
 :speaker::    Jacqueline Gutman [dynamicdataduo](https://twitter.com/dynamicdataduo)  
-:link::  
-:scroll::     
+:link::       
+:scroll::     [pdf](https://github.com/jgutman/rstudio-conf-20)
 :movie_camera::      
 
 
@@ -175,7 +175,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :speaker::    Jim Hester [jimhester_](https://twitter.com/jimhester_)  
 :link::  
 :scroll::     [speakerdeck](https://speakerdeck.com/jimhester/github-actions-for-r)  
-:movie_camera::      
+:movie_camera::     
 
 ### 14:15 Session 2, Track 1: Community
 
@@ -289,8 +289,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Reproducible Shiny Apps With Shinymeta  
 :speaker::    Carson Sievert [cpsievert](https://twitter.com/cpsievert)  
-:link::  
-:scroll::     
+:link::       [keynote](https://talks.cpsievert.me/20200129/shinymeta.key)
+:scroll::     [pdf](https://talks.cpsievert.me/20200129/shinymeta.pdf)
 :movie_camera::      
 
 ### 16:00 Session 3, Track 1: Case Study
@@ -425,8 +425,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Branding And Packaging Reports With R Markdown  
 :speaker::    Jake Thompson  
-:link::  
-:scroll::     
+:link::       [wjakethompson](bit.ly/ratlas-rstudioconf)
+:scroll::     [pdf](https://www.wjakethompson.com/slides/2020-Thompson-rstudioconf-Branding-Rmd.pdf)
 :movie_camera::      
 
 
@@ -642,8 +642,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      List-Columns In Data.Table: Reducing The Cognitive And Computational Burden When Working With Comple  
 :speaker::    Tyson Barrett [healthandstats](https://twitter.com/healthandstats)  
-:link::  
-:scroll::     
+:link::       
+:scroll::     [pdf](https://tysonbarrett.com/assets/rstudio_conf_2020/Barrett_rstudioconf_2020.pdf)
 :movie_camera::      
 
 
@@ -787,4 +787,3 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 ---
 
 ## Followup blog posts
-
