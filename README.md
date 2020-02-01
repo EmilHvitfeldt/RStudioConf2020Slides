@@ -786,4 +786,27 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 ---
 
+## Posters  
+
+:star2::      Using R to understand, analyze, and communicate tidal wetland data 
+:speaker::    Kim Cressman [swmpkim](https://twitter.com/swmpkim)   
+:link::       [swmpkim/rstudioconf2020_eposter](https://github.com/swmpkim/rstudioconf2020_eposter)
+:scroll::     
+
+
+:star2::        
+:speaker::       
+:link::  
+:scroll::     
+
+
+
+:star2::        
+:speaker::       
+:link::  
+:scroll::     
+
+
+---
+
 ## Followup blog posts
