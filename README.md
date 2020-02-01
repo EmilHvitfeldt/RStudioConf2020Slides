@@ -634,9 +634,9 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 
 :star2::      Bridging The Gap Between SQL And R: Introducing Queryparser And Tidyquery  
-:speaker::    Ian Cook  
-:link::  
-:scroll::     
+:speaker::    Ian Cook [ianmcook](https://twitter.com/ianmcook)  
+:link::       https://github.com/ianmcook/rstudioconf2020  
+:scroll::     [pdf](https://github.com/ianmcook/rstudioconf2020/blob/master/bridging_the_gap_between_sql_and_r.pdf)  
 :movie_camera::      
 
 
