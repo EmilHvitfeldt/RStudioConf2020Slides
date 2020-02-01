@@ -333,7 +333,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Learning R With Humorous Side Projects  
 :speaker::    Ryan Timpe [ryantimpe](https://twitter.com/ryantimpe)  
-:link::  
+:link::       http://www.ryantimpe.com/post/rstudio/  
 :scroll::     [pdf](http://www.ryantimpe.com/rstudio2020.pdf)  
 :movie_camera::      
 
