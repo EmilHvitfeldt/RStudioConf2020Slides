@@ -512,7 +512,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      RMarkdown Driven Development  
 :speaker::    Emily Riederer [EmilyRiederer](https://twitter.com/EmilyRiederer)  
-:link::  
+:link::       https://emilyriederer.netlify.com/post/rmddd-tech-appendix/  
 :scroll::     [slideshare](https://www.slideshare.net/EmilyRiederer/rmarkdown-driven-development-rstudioconf-2020)  
 :movie_camera::      
 
