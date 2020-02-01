@@ -304,8 +304,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Putting The Fun In Functional Data: A Tidy Pipeline To Identify Routes In NFL Tracking Data  
 :speaker::    Dani Chu [chuurveg](https://twitter.com/chuurveg)  
-:link::  
-:scroll::     
+:link::       [project](https://danichusfu.github.io/project/bigdatabowl/)  
+:scroll::     [google slides](https://docs.google.com/presentation/d/1P9iT_TQUoxxCyvkfCLe5Y-9xBWpHh7btlP2mQ3XyNOM/edit)  
 :movie_camera::      
 
 
