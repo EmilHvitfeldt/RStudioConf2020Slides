@@ -700,7 +700,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Every Voice Matters: An Analysis Of \@WeAreRLadies  
 :speaker::    Katherine Simeon  
-:link::  
+:link::  [katherinesimeon/WeAReRLadies-text-data](https://github.com/katherinesimeon/WeAreRLadies-text-data/blob/master/slides/2020-01-30-rstudioconf.pdf)  
 :scroll::     
 :movie_camera::      
 
@@ -721,7 +721,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Making A Tidy Dress  
 :speaker::    Amelia McNamara [AmeliaMN](https://twitter.com/AmeliaMN)  
-:link::  
+:link::       [http://amelia.mn/MakingATidyDress.pdf](http://amelia.mn/MakingATidyDress.pdf)  
 :scroll::     
 :movie_camera::      
 
@@ -749,7 +749,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Rproject Templates To Automate And Standardize Your Workflow  
 :speaker::    Caroline Ledbetter  
-:link::  
+:link::       [netlify](https://condescending-jackson-8418b6.netlify.com/#1)  
 :scroll::     
 :movie_camera::      
 
@@ -773,6 +773,12 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :link::  
 :scroll::     
 :movie_camera::      
+
+:star_2: Sliding Windows and Calendars  
+::speaker:: Davis Vaughan [dvaughan32](https://twitter.com/dvaughan32)  
+:link:: [davisvaughan.github.io](https://davisvaughan.github.io/rstudio-conf-2020/lightning-talk.pdf)  
+:scroll::  
+:movie_camera::  
 
 ### 13:00 Panel
 
