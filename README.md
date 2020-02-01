@@ -254,7 +254,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      What's New In TensorFlow For R  
 :speaker::    Daniel Falbel [dfalbel](https://twitter.com/dfalbel)  
 :link::  
-:scroll::     [xaringan](https://dfalbel.github.io/talks/2020-01-rstudio-conf)
+:scroll::     [xaringan](https://dfalbel.github.io/talks/2020-01-rstudio-conf)  
 :movie_camera::      
 
 
