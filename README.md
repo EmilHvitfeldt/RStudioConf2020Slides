@@ -341,7 +341,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Toward A Grammar Of Psychological Experiments  
 :speaker::    Danielle Navarro [djnavarro](https://twitter.com/djnavarro)  
 :link::  
-:scroll::     
+:scroll::     [slides.com](https://slides.com/djnavarro/rstudioconf2020#/)
 :movie_camera::      
 
 
