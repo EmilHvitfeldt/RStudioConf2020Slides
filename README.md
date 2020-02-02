@@ -491,7 +491,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      3D Ggplots With Rayshader  
 :speaker::    Tyler Morgan-Wall [tylermorganwall](https://twitter.com/tylermorganwall)  
 :link::  
-:scroll::     
+:scroll::     https://tylermw.com/presentations/rstudio2020/assets/player/KeynoteDHTMLPlayer.html  
 :movie_camera::      
 
 
