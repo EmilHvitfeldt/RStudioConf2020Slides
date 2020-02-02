@@ -48,7 +48,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Open Source Software For Data Science  
 :speaker::    JJ Allaire [@fly_upside_down](https://twitter.com/fly_upside_down) 
 :link::       
-:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc]  
+:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc)
 :movie_camera::      
 
 ### 10:00 Keynote
