@@ -283,7 +283,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Styling Shiny Apps With Sass And Bootstrap 4  
 :speaker::    Joe Cheng [jcheng](https://twitter.com/jcheng)  
 :link::  
-:scroll::     
+:scroll::     [speakerdeck](https://speakerdeck.com/jcheng5/styling-shiny)
 :movie_camera::      
 
 
