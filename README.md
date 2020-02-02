@@ -48,7 +48,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Open Source Software For Data Science  
 :speaker::    JJ Allaire [@fly_upside_down](https://twitter.com/fly_upside_down) 
 :link::       
-:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc)
+:scroll::     [revealjs](https://rstudio.com/slides/rstudio-pbc)  
 :movie_camera::      
 
 ### 10:00 Keynote
@@ -283,7 +283,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Styling Shiny Apps With Sass And Bootstrap 4  
 :speaker::    Joe Cheng [jcheng](https://twitter.com/jcheng)  
 :link::  
-:scroll::     [speakerdeck](https://speakerdeck.com/jcheng5/styling-shiny)
+:scroll::     [speakerdeck](https://speakerdeck.com/jcheng5/styling-shiny)  
 :movie_camera::      
 
 
@@ -318,8 +318,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Making Better Spaghetti (Plots): Exploring The Individuals In Longitudinal Data With The Brolgar Pac  
 :speaker::    Nicholas Tierney [nj_tierney](https://twitter.com/nj_tierney)  
-:link::       [github.com/njtierney/rstudioconf20](https://github.com/njtierney/rstudioconf20)
-:scroll::     [xaringan](https://njt-rstudio20.netlify.com/)
+:link::       [github.com/njtierney/rstudioconf20](https://github.com/njtierney/rstudioconf20)  
+:scroll::     [xaringan](https://njt-rstudio20.netlify.com/)  
 :movie_camera::      
 
 ### 16:00 Session 3, Track 2: Learning And Using R
@@ -341,7 +341,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Toward A Grammar Of Psychological Experiments  
 :speaker::    Danielle Navarro [djnavarro](https://twitter.com/djnavarro)  
 :link::  
-:scroll::     [slides.com](https://slides.com/djnavarro/rstudioconf2020#/)
+:scroll::     [slides.com](https://slides.com/djnavarro/rstudioconf2020#/)  
 :movie_camera::      
 
 
