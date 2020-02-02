@@ -405,8 +405,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Future: Simple Async, Parallel & Distributed Processing In R - What's Next?  
 :speaker::    Henrik Bengtsson [henrikbengtsson](https://twitter.com/henrikbengtsson)  
-:link::  
-:scroll::     
+:link::       https://www.jottr.org/2020/02/01/future-rstudioconf2020-slides/  
+:scroll::     [google slides](https://docs.google.com/presentation/d/1Wn5S91UGIOrc4IyXoV074ij5vGF8I0Km0tCfintyIa4/present?includes_info_params=1&eisi=CM2mhIXwsecCFQyuJgodBQAJ8A&slide=id.p)   
 :movie_camera::      
 
 ---
