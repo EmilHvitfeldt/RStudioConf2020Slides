@@ -756,7 +756,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Sound Annotation With Shiny And Wavesurfer  
 ::speaker:::    Athos Damiani [athos_damiani](https://twitter.com/athos_damiani)  
-:link::  [athospd.github.io/rstudio-conf-2020](https://athospd.github.io/rstudio-conf-2020/index.html)
+:link::  [athospd.github.io/rstudio-conf-2020](https://athospd.github.io/rstudio-conf-2020/index.html)  
 :scroll::     
 :movie_camera::      
 
