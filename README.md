@@ -801,17 +801,17 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 <br>
 
-:star2::        
-:speaker::       
-:link::  
-:scroll::     
+:star2::      Reaping the benefits of the Shiny community (and how you can help!)  
+:speaker::    Eric Nantz [theRcast](https://twitter.com/theRcast)   
+:link::       [shinydevseries.com](https://shinydevseries.com)  
+:scroll::     [rpodcast.shinyapps.io/highlights-shiny](https://rpodcast.shinyapps.io/highlights-shiny)  
 
 <br>
 
-:star2::        
-:speaker::       
+:star2::      Integration testing: A new way to test reactive behavior in `{shiny}` applications and modules  
+:speaker::    Alan Dipert [alandipert](https://twitter.com/alandipert)  
 :link::  
-:scroll::     
+:scroll::     [pdf](https://tailrecursion.com/~alan/documents/2020-01-28-RStudio-Conf-Integration-Testing-ePoster.pdf)  
 
 
 ---
