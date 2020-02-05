@@ -55,7 +55,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Data, Visualization, And Designing With AI  
 :speaker::    Fernanda Viegas, Martin Wattenberg  
-:link::  
+:link::       [People + AI Guidebook](https://pair.withgoogle.com/)  
 :scroll::     
 :movie_camera::      
 
@@ -130,7 +130,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      We’re Hitting R A Million Times A Day So We Made A Talk About It  
 :speaker::    Heather Nolis [heatherklus](https://twitter.com/heatherklus), Jacqueline Nolis [skyetetra](https://twitter.com/skyetetra)  
-:link::  
+:link::       [Put R in Prod](https://putrinprod.com/)  
 :scroll::     [pdf](https://putrinprod.com/talks/rstudioconf2020.pdf)  
 :movie_camera::      
 
@@ -144,7 +144,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Practical Plumber Patterns  
 :speaker::    James Blair  
-:link::  
+:link::       [blairj09/ppp](https://github.com/blairj09/ppp)  
 :scroll::     
 :movie_camera::      
 
@@ -229,7 +229,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :movie_camera::      
 
 
-:star2::      The Good, The Bad And The Ugly: What I Learned While Consulting Across The Business As A Data Scient  
+:star2::      The Good, The Bad And The Ugly: What I Learned While Consulting Across The Business As A Data Scientist  
 :speaker::    Ben Barnard  
 :link::  
 :scroll::     
@@ -268,7 +268,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Production-Grade Shiny Apps With Golem  
 :speaker::    Colin Fay [_ColinFay](https://twitter.com/_ColinFay)  
-:link::  
+:link::       [GitHub | golem: A Framework for Buildilng Robust Sniny Apps](https://github.com/ThinkR-open/golem)  
 :scroll::     [speakerdeck](https://speakerdeck.com/colinfay/rstudio-conf-2020-production-grade-shiny-apps-with-golem)  
 :movie_camera::      
 
@@ -384,7 +384,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Getting Things Logged  
 :speaker::    Gergely Daroczi [daroczig](https://twitter.com/daroczig)  
-:link::  
+:link::       [daroczig/logger](https://github.com/daroczig/logger)  
 :scroll::     [reveal](https://daroczig.github.io/slides/2020-01-29_rstudio-conf_getting-things-logged/)  
 :movie_camera::      
 
@@ -786,7 +786,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      NSSD Episode 100  
 ::speaker:::    Roger Peng [rdpeng](https://twitter.com/rdpeng), Hilary Parker [hspter](https://twitter.com/hspter)  
-:link::  
+:link::         [NSSD: 100 - Live from RStudio Conf 2020](http://nssdeviations.com/100-live-from-rstudio-conf-2020)  
 :scroll::     
 :movie_camera::      
 
