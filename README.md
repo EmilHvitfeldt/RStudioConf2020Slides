@@ -820,4 +820,5 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 - https://rosieabe.com/post/hello-world-again-i-m-back-and-here-with-rstudioconf-takeaways/
 - https://www.openscapes.org/blog/2020/02/04/rstudioconf-2020/
+- R-Podcast episode 32: [r-podcast.org/32](https://r-podcast.org/32)
 
