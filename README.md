@@ -519,7 +519,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Renv: Project Environments To R  
 :speaker::    Kevin Ushey [kevin_ushey](https://twitter.com/kevin_ushey)  
-:link::  
+:link::       https://rstudio.github.io/renv/  
 :scroll::     [xaringan](https://kevinushey-2020-rstudio-conf.netlify.com/slides.html)  
 :movie_camera::      
 
