@@ -398,7 +398,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Parallel Computing With R Using Foreach, Future, And Other Packages  
 :speaker::    Bryan Lewis  
-:link::  
+:link::       https://github.com/bwlewis/writing_foreach_adapters  
 :scroll::     
 :movie_camera::      
 
