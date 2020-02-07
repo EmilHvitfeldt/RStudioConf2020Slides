@@ -189,7 +189,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Embracing R In The Geospatial Community  
 :speaker::    Tina Cormier [TinaACormier](https://twitter.com/TinaACormier)  
 :link::  
-:scroll::     
+:scroll::     [pdf](https://github.com/tacormier/rstudio-conf-2020/blob/master/presentation_pdf/Rstudio2020_Cormier_Rgeo.pdf)  
 :movie_camera::      
 
 
