@@ -600,7 +600,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Small Team, Big Value: Using R To Design Visualizations  
 :speaker::    Ian Lyttle [ijlyttle](https://twitter.com/ijlyttle)  
 :link::  
-:scroll::     
+:scroll::     [speakerdeck](https://speakerdeck.com/ijlyttle/small-team-big-value-using-r-to-design-visualizations)  
 :movie_camera::      
 
 
