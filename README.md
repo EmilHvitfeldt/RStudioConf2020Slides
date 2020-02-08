@@ -101,8 +101,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Data Science Education In 2022  
 :speaker::    Carl Howe [cdhowe](https://twitter.com/cdhowe), Greg Wilson [gvwilson](https://twitter.com/gvwilson)   
-:link::  
-:scroll::     
+:link::       [Github](https://github.com/rstudio/rstudio-conf/tree/master/2020/data-science-education-2022_Carl-Howe)  
+:scroll::     [pdf](https://github.com/rstudio/rstudio-conf/blob/master/2020/data-science-education-2022_Carl-Howe/Future%20of%20Data%20Science%20Education.pdf)  
 :movie_camera::      
 
 
@@ -145,7 +145,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 :star2::      Practical Plumber Patterns  
 :speaker::    James Blair  
 :link::       [blairj09/ppp](https://github.com/blairj09/ppp)  
-:scroll::     
+:scroll::     [pdf](https://github.com/rstudio/rstudio-conf/blob/master/2020/practical-plumber-patterns_James-Blair/slides.pdf)  
 :movie_camera::      
 
 ### 11:30 Session 1, Track 4: Programming
@@ -577,7 +577,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Totally Tidy Tuning Techniques  
 :speaker::    Max Kuhn [topepos](https://twitter.com/topepos)  
-:link::  
+:link::       [Github](https://github.com/rstudio/rstudio-conf/tree/master/2020/totally-tidy-tuning-tools-Max-Kuhn)  
 :scroll::     
 :movie_camera::      
 
