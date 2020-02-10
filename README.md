@@ -446,8 +446,8 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      One R Markdown Document, Fourteen Demos  
 :speaker::    Yihui Xie [xieyihui](https://twitter.com/xieyihui)  
-:link::  [blog post](https://yihui.org/en/2020/02/rstudio-conf-2020/)
-:scroll::     [R script](https://slides.yihui.org/2020-rstudio-conf-rmarkdown-demo.R)
+:link::  [blog post](https://yihui.org/en/2020/02/rstudio-conf-2020/)  
+:scroll::     [R script](https://slides.yihui.org/2020-rstudio-conf-rmarkdown-demo.R)  
 :movie_camera::      
 
 ### 10:30 Session 1, Track 2: Medicine
