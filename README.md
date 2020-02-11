@@ -3,6 +3,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+Offical storage of material and links can be found here: [rstudio-conf](https://github.com/rstudio/rstudio-conf/tree/master/2020).  
+
 Links to slides to talks at the 2020
 [rstudio::conf](https://www.rstudio.com/conference/)
 
